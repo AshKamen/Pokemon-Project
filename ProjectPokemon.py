@@ -1,6 +1,6 @@
 # Simple Pokemon game
 # Player chooses a Pokeball selection and is then given a random Pokemon for their 'starter' Pokemon 
-# Pokemon is selected randomly from the 151 Pokemon from the anime series. 
+# Pokemon is selected depending on colour chosen. 
 print("Hello! Welcome to the world of Pokemon! Are you ready to start your adventure?")
 # Ask for the players name
 player_name = input("What is your name?")
